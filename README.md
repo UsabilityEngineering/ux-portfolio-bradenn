@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+My name is Braden Nicholson. I am studying computer science at Chico State. I've worked on quite a few UI/UX projects over the years, mostly outside of my college education. Some of the more major ones are [udap](https://github.com/bradenn/udap), [netwatcher](https://github.com/netwatcherio-client), [monoverse](https://github.com/bradenn/monoverse), and [turnin](https://github.com/bradenn/turnin-client) to name a few.
 
 ## UX Team Project
 
