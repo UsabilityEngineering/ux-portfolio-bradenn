@@ -37,15 +37,19 @@ began to use it, I learned it wasn't as effective as I imagined.
 I had envisioned bar to be an effective mode of navigation for moving between each step:
 
 Step 1:
+
 ![img_1.png](assets/img_1.png)
 
 Step 2:
+
 ![img.png](assets/img.png)
 
 Step 3:
+
 ![img_2.png](assets/img_2.png)
 
 Step 4 (Final):
+
 ![img_3.png](assets/img_3.png)
 
 There is no limit to which order you can go to tabs, through pressing next will take you to the next tab.
